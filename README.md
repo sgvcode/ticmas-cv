@@ -3,7 +3,8 @@
 
 🟢 Desarrollo de CV para personaje ficticio realizado en HTML, CSS y JavaScript
 
-🖥️ Github Pages: https://sgvcode.github.io/ticmas-cv/
+🖥️ Preview Design Github Pages: https://sgvcode.github.io/ticmas-cv/
+🖥️ My Porfolio Final: https://sgvero.mscode.net.ar
 
 ## Screenshots
 ![brave_trRd7ucaLi](https://user-images.githubusercontent.com/106033066/213885964-83d8f8a7-97d8-4aab-9025-48d453d56c62.png)
