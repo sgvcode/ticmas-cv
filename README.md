@@ -3,7 +3,7 @@
 
 🟢 Desarrollo de CV para personaje ficticio realizado en HTML, CSS y JavaScript
 
-🖥️ Mi porfolio: https://sgvero.mscode.net.ar
+## 🖥️ Mi porfolio: https://sgvero.mscode.net.ar
 
 🖥️ Preview Trabajo entregado Ticmas: https://sgvcode.github.io/ticmas-cv/
 
